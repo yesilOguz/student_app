@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410955422159",
+    "project_id": "students-384bf",
+    "storage_bucket": "students-384bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410955422159:android:c669b0a575d4394c5e1aba",
+        "android_client_info": {
+          "package_name": "com.nesdzo.student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFosLAqp2UoyD6e_aMS3plHScnC0m11R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
